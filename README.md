@@ -20,6 +20,8 @@ Forever Free Instagram bot: [promotion and SMM scripts](https://github.com/insta
 Install `instabot` with:
 ``` bash
 pip install -U instabot
+
+pip install -e git+git://github.com/valerimedvedev/instabot.git@master#egg=instabot
 ```
 #### or see [this](https://instagrambot.github.io/docs/en/#installation) for more details.
 
